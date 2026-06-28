@@ -1,0 +1,44 @@
+Create a professional, presentation-ready PowerPoint of EXACTLY 10 slides for a
+machine learning internship project. Use a clean modern design suited to the
+"Healthcare / Classification" theme. Keep text concise with bullet points and suggest a relevant
+icon or simple chart for each slide.
+
+PROJECT TITLE: Heart Disease Prediction Using Machine Learning
+
+Slide 1 - Title slide:
+  Title: "Heart Disease Prediction Using Machine Learning"
+  Internship Project - Artificial Intelligence Domain
+  Submitted By: Harshit
+  College: Vijay Patil School of Management, Navi Mumbai
+  Course: Master of Business Administration (MBA)
+  Organization: Naviotech Solution Pvt. Ltd.
+  Date: June 2026
+
+Slide 2 - Introduction: Background on the problem in healthcare / classification and how AI/ML
+  helps. End with the objective: To build a model that predicts whether a person has heart disease based on their medical attributes, supporting early diagnosis.
+
+Slide 3 - Problem Statement: To build a model that predicts whether a person has heart disease based on their medical attributes, supporting early diagnosis. List 3-4 challenges.
+
+Slide 4 - Dataset Information: A dataset of 303 patient records with 13 medical features and a target indicating the presence of heart disease.
+  Key features: Age & Sex, Chest Pain Type, Resting Blood Pressure, Serum Cholesterol, Fasting Blood Sugar, Resting ECG Results.
+  Target: 0 = Healthy, 1 = Has Heart Disease
+
+Slide 5 - Tools & Technologies: Python, NumPy, Pandas, Scikit-Learn, Google Colab / Jupyter Notebook.
+
+Slide 6 - Data Preprocessing: data loading, cleaning, feature preparation,
+  train-test split. Mention why preprocessing improves results.
+
+Slide 7 - Methodology: Data collection -> cleaning -> encoding -> train/test split -> model training -> evaluation. Show as a simple flow diagram.
+Slide 8 - Model Building & Training: Algorithm used is Logistic Regression. Briefly
+  explain how it is trained on the training data.
+
+Slide 9 - Results & Performance: Present these real results as stat cards or a bar chart:
+  - Test Accuracy: 82.0%
+  - Training Accuracy: 85.1%
+  Add one line: "A Logistic Regression model was trained on the patient data. It achieved 85.1% accuracy on training data and 82.0% accuracy on unseen test data, showing it can support doctors in early heart-disease risk screening."
+
+Slide 10 - Conclusion & Future Scope + a "Thank You" line.
+  Conclusion: the model works well and supports decision-making.
+  Future scope: larger datasets, advanced models, real-time deployment.
+
+Make it visually engaging and ready to present.
